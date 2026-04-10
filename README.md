@@ -1,1 +1,1 @@
-# psixkolor
+# psikolor
